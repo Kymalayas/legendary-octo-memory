@@ -1,10 +1,10 @@
 ## Summary
-### I started studying React a while ago, and I'm trying to practice front-end coding.
+I started studying React a while ago, and I'm trying to practice front-end coding.
 
 ### to be
 + 
 + 
 
 ### to do
-[+] Add new repository
-[+] Creating react app
++ [+] Add new repository
++ [+] Creating react app
