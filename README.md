@@ -6,5 +6,5 @@ I started studying React a while ago, and I'm trying to practice front-end codin
 + 
 
 ### to do
-+ [ ] Add new repositoryhtml
++ [+] Add new repositoryhtml
 + [ ] java scriptCreating react app
