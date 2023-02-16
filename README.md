@@ -7,5 +7,5 @@ I started studying React a while ago, and I'm trying to practice front-end codin
 
 ## To do
 
-- [x] Add new repositoryhtml
+- [x] Add new repository
 - [ ] Creating react app
